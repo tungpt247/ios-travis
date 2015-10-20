@@ -1,0 +1,13 @@
+language: swift
+
+branches:
+ only:
+ - master
+
+xcode_project: ios-travis.xcodeproj
+xcode_scheme: ios-travisTests
+osx_image: xcode7.0
+xcode_sdk: iphonesimulator8.3
+
+script:
+- xcodebuild clean build test -project ios-travis.xcodeproj -scheme ios-travisTests
