@@ -376,7 +376,7 @@
 				30227E4E1BD5D82800AE7E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		30227E4F1BD5D82800AE7E95 /* Build configuration list for PBXNativeTarget "ios-travis" */ = {
 			isa = XCConfigurationList;
@@ -385,6 +385,7 @@
 				30227E511BD5D82800AE7E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 		30227E521BD5D82800AE7E95 /* Build configuration list for PBXNativeTarget "ios-travisTests" */ = {
 			isa = XCConfigurationList;
@@ -393,6 +394,7 @@
 				30227E541BD5D82800AE7E95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
